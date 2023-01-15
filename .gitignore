@@ -1,0 +1,8 @@
+datasets/
+pretrained/
+venv/
+.idea/
+debug/
+test/
+.DS_Store
+__pycache__/
